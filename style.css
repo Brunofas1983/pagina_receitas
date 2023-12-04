@@ -63,7 +63,7 @@ div {
 /* SEÇÃO ÍNICIO */
 
 #inicio {
-    background-image: url(./Imagens/BLOCO-TOPO-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-TOPO-FITNESS.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -161,7 +161,7 @@ button {
 /* SEÇÃO PROGRAMA */
 
 #programa {
-    background-image: url(./Imagens/BLOCO-0-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-0-FITNESS.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -190,7 +190,7 @@ button {
 /* SEÇÃO DORES */
 
 #dores {
-    background-image: url(./Imagens/BLOCO-03-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-03-FITNESS.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -249,7 +249,7 @@ button {
 /*SEÇÃO DEPOIMENTOS*/
 
 #depoimentos {
-    background-image: url(./Imagens/BLOCO-04-FITNESS-BKG-02.jpg);
+    background-image: url(./imagens/BLOCO-04-FITNESS-BKG-02.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -286,7 +286,7 @@ button {
 }
 
 #transformacao {
-    background-image: url(./Imagens/BLOCO-05-FITNESS-BKG-2.jpg);
+    background-image: url(./imagens/BLOCO-05-FITNESS-BKG-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -295,7 +295,7 @@ button {
 /*------- SEÇÃO OFERTA------*/
 
 #oferta {
-    background-image: url(./Imagens/BLOCO-06-FITNESS-BKG-02.jpg);
+    background-image: url(./imagens/BLOCO-06-FITNESS-BKG-02.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -412,7 +412,7 @@ background-color: #000;
 }
 
 #faq {
-    background-image: url(./Imagens/BLOCO-07-FITNESS-BKG-02.jpg);
+    background-image: url(./imagens/BLOCO-07-FITNESS-BKG-02.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -634,7 +634,7 @@ details[open] > summary:first-of-type {
     /*--- SEÇÃO PROGRAMA MOBILE-----*/
     
 #programa {
-    background-image: url(./Imagens/BLOCO-0-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-0-FITNESS.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -666,7 +666,7 @@ details[open] > summary:first-of-type {
 /* SEÇÃO DORES MOBILE*/
 
 #dores {
-    background-image: url(./Imagens/BLOCO-03-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-03-FITNESS.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -841,7 +841,7 @@ details[open] > summary:first-of-type {
 /* SEÇÃO ÍNICIO */
 
 #inicio {
-    background-image: url(./Imagens/BLOCO-TOPO-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-TOPO-FITNESS.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -944,7 +944,7 @@ button {
 /* SEÇÃO PROGRAMA */
 
 #programa {
-    background-image: url(./Imagens/BLOCO-0-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-0-FITNESS.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -987,7 +987,7 @@ button {
 /* SEÇÃO DORES */
 
 #dores {
-    background-image: url(./Imagens/BLOCO-03-FITNESS.jpg);
+    background-image: url(./imagens/BLOCO-03-FITNESS.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
